@@ -12,7 +12,11 @@
   ],
   "draft": false,
   "navigation": {
-    "prevPost": null,
+    "prevPost": {
+      "slug": "theoremforge",
+      "title": "TheoremForge: A Blueprint Towards Autoformalization of Research-Level Mathematics",
+      "description": "In this blog I will describe the blueprint of developing agentic systems for autoformalization of research-level mathematics."
+    },
     "nextPost": null
   }
 }

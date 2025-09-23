@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "theoremforge",
+      "title": "TheoremForge: A Blueprint Towards Autoformalization of Research-Level Mathematics",
+      "date": "2025-9-22",
+      "description": "In this blog I will describe the blueprint of developing agentic systems for autoformalization of research-level mathematics.",
+      "author": [
+        "timechess"
+      ],
+      "tags": [
+        "AI4Math",
+        "Lean"
+      ],
+      "draft": false
+    },
+    {
       "slug": "lean_intro",
       "title": "A Minimal Guide for Theorem Proving in Lean 4: Introduction of Basic Concepts",
       "date": "2025-7-17",
@@ -15,10 +29,11 @@
     }
   ],
   "tags": [
+    "AI4Math",
     "Lean"
   ],
   "authors": [
     "timechess"
   ],
-  "generatedAt": "2025-09-23T00:52:25.602Z"
+  "generatedAt": "2025-09-23T09:29:54.416Z"
 }
